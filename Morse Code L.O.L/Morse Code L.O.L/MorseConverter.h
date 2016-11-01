@@ -1,7 +1,7 @@
 #ifndef MorseConverter_H_
 #define MorseConverter_H_
 /*
-GitHub:
+GitHub: https://github.com/zen77/Morse-Code-L.O.L.
 Copyright © 2016 T Malo / Zen77
 */
 #include <vector>
