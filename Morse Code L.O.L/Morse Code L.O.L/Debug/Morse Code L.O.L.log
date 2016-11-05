@@ -1,13 +1,13 @@
 ﻿  MyForm.cpp
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(63): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(68): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(69): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(71): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(95): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(106): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(107): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(109): warning C4018: '<': signed/unsigned mismatch
-e:\thomas files\programing\mores code lol\morse code l.o.l\morse code l.o.l\MorseConverter.h(125): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(63): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(68): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(69): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(71): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(95): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(106): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(107): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\thomas files\github\morse-code-l.o.l\morse code l.o.l\morse code l.o.l\MorseConverter.h(125): warning C4018: '<': signed/unsigned mismatch
   .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
-  Morse Code L.O.L.vcxproj -> E:\Thomas Files\Programing\mores code lol\Morse Code L.O.L\Debug\Morse Code L.O.L.exe
-  Morse Code L.O.L.vcxproj -> E:\Thomas Files\Programing\mores code lol\Morse Code L.O.L\Debug\Morse Code L.O.L.pdb (Full PDB)
+  Morse Code L.O.L.vcxproj -> E:\Thomas Files\GitHub\Morse-Code-L.O.L\Morse Code L.O.L\Debug\Morse Code L.O.L.exe
+  Morse Code L.O.L.vcxproj -> E:\Thomas Files\GitHub\Morse-Code-L.O.L\Morse Code L.O.L\Debug\Morse Code L.O.L.pdb (Full PDB)
